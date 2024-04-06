@@ -13,3 +13,33 @@
  *= require_tree .
  *= require_self
  */
+h1{
+  font-family: Arial, sans-serif;
+}
+
+ body{
+  font-family:Arial, sans-serif;
+
+ }
+.callout {
+  padding: 1 px;
+  border-left: 6px solid rgb(180, 180, 180);
+  border-radius: 3px;
+}
+
+.blockquote {
+  padding-left: 10px;
+}
+
+#title{
+  padding: 15px;
+  padding-top: 50px;
+}
+
+.highlight {
+  background-color: rgb(255, 250, 223);
+}
+
+.btn{
+  background-color: rgb(47, 82, 255);
+}
